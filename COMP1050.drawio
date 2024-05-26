@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T00:52:38.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8ryIjZYloxOf6_Yvv9Ex" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T01:05:51.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="D0m27w1Z2W0zZLNGNVMp" version="24.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1272" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="isv8KoxDo1tm24USL7_6-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Dentist (Class)&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PImage&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="100" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="isv8KoxDo1tm24USL7_6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="isv8KoxDo1tm24USL7_6-2" target="isv8KoxDo1tm24USL7_6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isv8KoxDo1tm24USL7_6-9" value="Updates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isv8KoxDo1tm24USL7_6-8">
+          <mxGeometry x="-0.0667" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="isv8KoxDo1tm24USL7_6-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Fridge (Class)&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;PImage&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="340" width="350" height="170" as="geometry" />
@@ -24,6 +32,9 @@
         </mxCell>
         <mxCell id="isv8KoxDo1tm24USL7_6-6" value="Tooth tooth (toothInstance)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isv8KoxDo1tm24USL7_6-7" value="pullTooth" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="670" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
